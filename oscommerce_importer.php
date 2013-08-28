@@ -6,6 +6,9 @@
     Author: B. Chapin 
     Version: 1.0 
     Author URI: http://www.chapinproductions.com 
+    
+    and add a line to this file too
+    
     */ 
     
     function oscimp_getproducts($product_cnt=1) {  
