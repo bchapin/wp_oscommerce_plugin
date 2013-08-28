@@ -6,7 +6,9 @@
     Description: Plugin for displaying products from an OSCommerce shopping cart database 
     Author: B. Chapin 
     Version: 1.0 
-    Author URI: http://www.chapinproductions.com 
+    Author URI: http://www.chapinproductions.com
+    
+    added line to see if we can add this to the repo 
     */
      
 =======
