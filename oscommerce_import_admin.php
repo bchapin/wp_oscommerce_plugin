@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php  
 	/* 
     Plugin Name: OSCommerce Product Display 
@@ -8,6 +9,9 @@
     Author URI: http://www.chapinproductions.com 
     */
      
+=======
+<?php   
+>>>>>>> 6d94399fddb88256f32a23f0bb958b9ab9b50ebc
     if($_POST['oscimp_hidden'] == 'Y') {  
         //Form data sent  
         $dbhost = $_POST['oscimp_dbhost'];  
